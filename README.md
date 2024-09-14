@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio! Here, I showcase my journey as a frontend developer, featuring projects that blend creativity with technical precision.
 
-[Visit my Portfolio](https://)
+[Visit my Portfolio](https://esethu-pakosi-portfolio.netlify.app)
 
 
 ## About Me
