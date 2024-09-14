@@ -1,13 +1,13 @@
 # Esethu Pakosi Portfolio Website  
 
-Welcome to my personal portfolio! Here, I showcase my journey as a frontend developer, featuring projects that blend creativity with technical precision.
+Welcome to my personal portfolio! Here, I showcase my journey as a frontend developer & Web developer, featuring projects that blend creativity with technical precision.
 
 [Visit my Portfolio](https://esethu-pakosi-portfolio.netlify.app)
 
 
 ## About Me
 
-Hi! I'm Esethu, a passionate frontend developer who thrives on creating visually stunning, user-friendly web experiences. With a focus on modern design principles, I specialize in turning ideas into fully functional websites that not only look good but also deliver outstanding user experiences. Whether it’s through pixel-perfect designs, optimized performance, or seamless responsiveness, I’m always exploring new ways to push boundaries.
+Hi! I'm Esethu, a passionate frontend developer & Web developer who thrives on creating visually stunning, user-friendly web experiences. With a focus on modern design principles, I specialize in turning ideas into fully functional websites that not only look good but also deliver outstanding user experiences. Whether it’s through pixel-perfect designs, optimized performance, or seamless responsiveness, I’m always exploring new ways to push boundaries.
 
 ## What I Do Best
 - **Crafting Seamless User Interfaces:** I transform design mockups into beautiful, interactive websites with a focus on responsiveness and performance.
